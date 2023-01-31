@@ -1,0 +1,12 @@
+W:\Documents\SourceCode\Windows\wLights\obj\Debug\wLights.csproj.AssemblyReference.cache
+W:\Documents\SourceCode\Windows\wLights\obj\Debug\wLights.csproj.SuggestedBindingRedirects.cache
+W:\Documents\SourceCode\Windows\wLights\obj\Debug\wLights.frmReport.resources
+W:\Documents\SourceCode\Windows\wLights\obj\Debug\wLights.frmW.resources
+W:\Documents\SourceCode\Windows\wLights\obj\Debug\wLights.Properties.Resources.resources
+W:\Documents\SourceCode\Windows\wLights\obj\Debug\wLights.csproj.GenerateResource.cache
+W:\Documents\SourceCode\Windows\wLights\obj\Debug\wLights.csproj.CoreCompileInputs.cache
+W:\Documents\SourceCode\Windows\wLights\bin\Debug\wLights.exe.config
+W:\Documents\SourceCode\Windows\wLights\bin\Debug\wLights.exe
+W:\Documents\SourceCode\Windows\wLights\bin\Debug\wLights.pdb
+W:\Documents\SourceCode\Windows\wLights\obj\Debug\wLights.exe
+W:\Documents\SourceCode\Windows\wLights\obj\Debug\wLights.pdb
